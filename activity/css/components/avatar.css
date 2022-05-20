@@ -1,1 +1,7 @@
 /* Your avatar CSS code here */
+
+.avatar-large {
+  width: 150px;
+  height: 150px;
+  border-radius: 999px;
+}/* Your avatar CSS code here */
